@@ -30,8 +30,8 @@ Este repositorio contiene todos los materiales y recursos organizados para el **
 
 | Unidad | Tema                               | Estado                 | Notas |
 |:------:|:----------------------------------:|:----------------------:|:-----:|
-|   1    | Introducción                       | `🛠️ En desarrollo 🛠️` |       |
-|   2    | Carga y preparación de datos       | `❌ Pendiente ❌`     |       |
+|   1    | Introducción                       | `✔️ Completado ✔️`    |       |
+|   2    | Carga y preparación de datos       | `🛠️ En desarrollo 🛠️` |       |
 |   3    | Procesamiento de datos             | `❌ Pendiente ❌`     |       |
 |   4    | Uso de funciones DAX               | `❌ Pendiente ❌`     |       |
 |   5    | Diseño de informes y visualización | `❌ Pendiente ❌`     |       |
